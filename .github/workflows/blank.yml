@@ -27,8 +27,8 @@ jobs:
       - name: Newman Action
       - uses: matt-ball/newman-action@v1.0.4
        with:
-       #Название коллекции, которуб запускаем
-       collection: 26-07.postman_collection.json
+       #Название коллекции, которуе запускаем
+        collection: 26-07.postman_collection.json
 
 
   
